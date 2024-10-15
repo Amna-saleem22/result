@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\secod semester\\result\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8058DC-C489-4A35-B865-8717D5BD837A}|result\\result.csproj|e:\\secod semester\\result\\result\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FA8058DC-C489-4A35-B865-8717D5BD837A}|result\\result.csproj|solutionrelative:result\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA8058DC-C489-4A35-B865-8717D5BD837A}|result\\result.csproj|e:\\secod semester\\result\\result\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA8058DC-C489-4A35-B865-8717D5BD837A}|result\\result.csproj|solutionrelative:result\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\secod semester\\result\\result\\Form1.cs",
+              "RelativeDocumentMoniker": "result\\Form1.cs",
+              "ToolTip": "E:\\secod semester\\result\\result\\Form1.cs",
+              "RelativeToolTip": "result\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvy8AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:56:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\secod semester\\result\\result\\Form1.cs",
+              "RelativeDocumentMoniker": "result\\Form1.cs",
+              "ToolTip": "E:\\secod semester\\result\\result\\Form1.cs [Design]",
+              "RelativeToolTip": "result\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T00:50:20.462Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

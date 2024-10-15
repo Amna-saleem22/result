@@ -1,0 +1,10 @@
+E:\secod semester\result\result\bin\Debug\result.exe.config
+E:\secod semester\result\result\bin\Debug\result.exe
+E:\secod semester\result\result\bin\Debug\result.pdb
+E:\secod semester\result\result\obj\Debug\result.csproj.AssemblyReference.cache
+E:\secod semester\result\result\obj\Debug\result.Form1.resources
+E:\secod semester\result\result\obj\Debug\result.Properties.Resources.resources
+E:\secod semester\result\result\obj\Debug\result.csproj.GenerateResource.cache
+E:\secod semester\result\result\obj\Debug\result.csproj.CoreCompileInputs.cache
+E:\secod semester\result\result\obj\Debug\result.exe
+E:\secod semester\result\result\obj\Debug\result.pdb
